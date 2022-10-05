@@ -12,7 +12,7 @@ dependencies:
 
 ```
 
-** please add dependepcies and the run :
+### please add dependepcies and the run :
 ```
 flutter pub upgrade
 ```
