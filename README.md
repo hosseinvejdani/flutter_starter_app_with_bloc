@@ -2,13 +2,15 @@
 ```
 dependencies:
   bloc: ^8.1.0
+  flutter_bloc: ^8.1.1
   cupertino_icons: ^1.0.2
+  flutter_screenutil: ^5.5.4
+  
   flutter:
     sdk: flutter
-  flutter_bloc: ^8.1.1
   flutter_localizations:
     sdk: flutter
-  flutter_screenutil: ^5.5.4
+  
 
 ```
 
